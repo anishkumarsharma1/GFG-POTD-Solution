@@ -5,3 +5,6 @@
 | 1 | Last Moment Before All Ants Fall Out
  | ✅ |
 
+| 2 | 
+Maximize Number of 1's| ✅ |
+
