@@ -9,3 +9,5 @@
 | 3 |  Happiest Triplet| ✅ |
 
 | 4 |  Happiest Triplet| ✅ |
+
+| 5 |  Happiest Triplet| ✅ |
