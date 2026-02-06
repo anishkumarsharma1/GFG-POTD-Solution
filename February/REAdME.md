@@ -7,3 +7,5 @@
 | 2 | Maximize Number of 1's| ✅ |
 
 | 3 |  Happiest Triplet| ✅ |
+
+| 4 |  Happiest Triplet| ✅ |
