@@ -2,9 +2,8 @@
 
 | Day | Problem | Status |
 |----|--------|-------|
-| 1 | Last Moment Before All Ants Fall Out
- | ✅ |
+| 1 | Last Moment Before All Ants Fall Out | ✅ |
 
-| 2 | 
-Maximize Number of 1's| ✅ |
+| 2 | Maximize Number of 1's| ✅ |
 
+| 3 |  Happiest Triplet| ✅ |
