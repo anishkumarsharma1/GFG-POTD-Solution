@@ -8,7 +8,7 @@ Solve one problem daily to strengthen DSA and maintain GitHub streak.
 
 
 ### ✅ 2026
-- February (✔ ongoing)
+- February (✔ ongoing..)
 
 
 ## 💻 Language Used
