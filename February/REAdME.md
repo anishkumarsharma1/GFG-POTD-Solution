@@ -8,6 +8,5 @@
 
 | 3 |  Happiest Triplet| ✅ |
 
-| 4 |  Happiest Triplet| ✅ |
+| 4 |  Find Kth Rotation| ✅ |
 
-| 5 |  Happiest Triplet| ✅ |
