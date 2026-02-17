@@ -9,4 +9,6 @@
 | 3 |  Happiest Triplet| ✅ |
 
 | 4 |  Find Kth Rotation| ✅ |
+| 5 |  Meeting Rooms | ✅ |
 
+| 6 | Maximum number of overlapping Intervals | ✅ |
