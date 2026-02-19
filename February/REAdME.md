@@ -12,3 +12,4 @@
 | 5 |  Meeting Rooms | ✅ |
 
 | 6 | Maximum number of overlapping Intervals | ✅ |
+| 7 | Missing Element in Range | ✅ |
